@@ -7,3 +7,5 @@
 [![Learning](https://skillicons.dev/icons?i=react,electron,nodejs,mongodb,bash,regex,docker,aws,rust,raspberrypi,bots&perline=6)](https://skillicons.dev)
   
 > *I know, it's all over the place :')*
+
+[![wakatime](https://wakatime.com/badge/user/018d46e9-27c5-48c0-8e70-1ca9f51fc980.svg)](https://wakatime.com/@018d46e9-27c5-48c0-8e70-1ca9f51fc980)
