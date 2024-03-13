@@ -1,4 +1,4 @@
-#### What I'm currently learning or somewhat know already:
+#### What I'm currently using and/or learning:
   
 [![Skills](https://skillicons.dev/icons?i=js,html,css,git,py,vscode,neovim,arch,nix&perline=5)](https://skillicons.dev)
   
