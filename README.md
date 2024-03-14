@@ -1,6 +1,6 @@
 #### What I'm currently using and/or learning:
   
-[![Skills](https://skillicons.dev/icons?i=js,html,css,git,py,vscode,neovim,arch,nix&perline=5)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,html,css,git,py,neovim,arch,nix&perline=4)](https://skillicons.dev)
   
 #### What I want to learn and use at some point:
   
